@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sushant0753
-- 👀 I’m interested in Coding, Technology and development.
+- 👀 I’m interested in Softwares, Technology and Game development.
 - 🌱 I’m currently learning Artificial intelligence and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Connect with me on LinkedIn :https://www.linkedin.com/in/sushant-kumar-53b538249/ 
