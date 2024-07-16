@@ -1,4 +1,4 @@
-<h2 align="left">Hi, my name is Sushant Kumar, I'm currently pursuing my Engineering degree in Artificial Intelligence and Machine Learning.  I'm interested in software development and Games.</h2>
+<h2 align="left">Hi, my name is Sushant Kumar, I'm currently pursuing my bahelors of technology in Artificial Intelligence and Machine Learning.  I'm interested in software development and Games.</h2>
 
 ###
 
